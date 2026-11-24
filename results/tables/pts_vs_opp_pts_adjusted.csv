@@ -1,0 +1,5 @@
+,"Pearson r (pts, opp_pts)"
+No adjustment,0.6360432077230848
+Adjusted for year_id as a straight line,0.6326705679441325
+Adjusted for era (5 groups),0.48855823615674654
+Adjusted for season (63 groups),0.44626713255886497

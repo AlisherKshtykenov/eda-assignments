@@ -1,0 +1,14 @@
+,value
+"Playoff - regular gap, mean total points",-4.499220198162988
+Same gap with equal era composition,-5.103341701949636
+Largest era Cohen's d (absolute),2.715942959694676
+Eta squared of era,0.3532987391290607
+"ABA - NBA, all seasons",18.68812995799601
+"ABA - NBA, same seasons",5.672775908981947
+"r(pts, opp_pts) pooled",0.6360432077230845
+"r(pts, opp_pts) adjusted for season",0.44626713255886497
+"Cramer's V, season type x result",0.01792364866594095
+"Cramer's V, Elo status x result",0.29158315083323205
+Crude playoff odds ratio,1.1687364226977983
+Mantel-Haenszel odds ratio,1.0923415701188148
+"PC1 + PC2, % of variance",57.56193178818234
