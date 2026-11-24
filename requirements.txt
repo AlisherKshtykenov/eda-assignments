@@ -9,7 +9,7 @@ attrs==26.1.0
 babel==2.18.0
 beautifulsoup4==4.15.0
 bleach==6.4.0
-certifi==2026.7.22
+certifi==2026.10.18
 cffi==2.1.1
 charset-normalizer==3.5.1
 comm==0.2.3
@@ -45,7 +45,7 @@ jupyter_client==8.10.0
 jupyter_core==5.9.1
 jupyter_server==2.21.1
 jupyter_server_terminals==0.5.4
-jupyterlab==4.6.3
+jupyterlab==4.6.4
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.28.1
 jupyterlab_widgets==3.0.17
@@ -56,10 +56,10 @@ matplotlib==3.11.2
 matplotlib-inline==0.2.2
 mistune==3.3.4
 nbclient==0.11.0
-nbconvert==7.17.1
+nbconvert==7.17.2
 nbformat==5.11.1
 nest-asyncio2==1.7.2
-notebook==7.6.2
+notebook==7.6.3
 notebook_shim==0.2.4
 numpy==2.5.3
 packaging==26.3
@@ -67,7 +67,7 @@ pandas==3.0.6
 pandocfilters==1.5.1
 parso==0.8.7
 pexpect==4.9.0
-pillow==12.3.0
+pillow==13.0.0
 platformdirs==4.11.11
 prometheus_client==0.26.0
 prompt_toolkit==3.0.53
@@ -77,7 +77,7 @@ pure_eval==0.2.4
 pycparser==3.0
 Pygments==2.21.0
 pyparsing==3.3.3
-pypdf==6.19.0
+pypdf==6.21.4
 python-dateutil==2.9.0.post0
 python-json-logger==4.2.0
 PyYAML==6.0.3
@@ -91,11 +91,11 @@ rpds-py==2026.6.3
 seaborn==0.13.2
 Send2Trash==2.1.0
 six==1.17.0
-soupsieve==2.9.2
+soupsieve==4.0
 stack-data==0.6.3
 terminado==0.18.1
 tinycss2==1.5.1
-tornado==6.5.10
+tornado==6.6.1
 traitlets==5.16.1
 typing_extensions==4.16.0
 tzdata==2026.4
